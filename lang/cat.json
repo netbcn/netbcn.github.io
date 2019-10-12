@@ -18,5 +18,11 @@
     "contact_subtitle": "Qui som",
     "contact_text": "Com a organització sense ànim de lucre, no tenim altre propòsit que promoure l'intercanvi de coneixement sobre les tecnologies de les comunicacions i Internet, fomentant la col·laboració a nivell local i internacional",
     "team": "Equip",
-    "location": "Localització"
+    "location": "Localització",
+    "resources": "Recursos",
+    "resources_summary": "Facilitant events i recursos per la comunitat de networking a Barcelona des de 2016!",
+    "resources_description": "Els nostres events són una font de información i experiències que pots recordar en aquesta secció",
+    "resource_a_title": "GORE24",
+    "resource_a_description": "Dintre del GORE24 organitzat per ESNOG, NetBCN va participar amb tres presentacions:",
+    "more_info": "més informació"
 }
