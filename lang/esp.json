@@ -30,5 +30,11 @@
     "resource_c_title": "NetBCN en Edreams Odigeo",
     "resource_c_description": "A parte de les dos presentaciones, disfrutamos de una mesa de debate (con pizzes!) dirigida por David Gonzalez",
     "resource_d_title": "NetBCN en Glovo",
-    "resource_d_description": "Coincidiendo con Cisco Live Europe reunimos participantes de diferentes nacionalidades"
+    "resource_d_description": "Coincidiendo con Cisco Live Europe reunimos participantes de diferentes nacionalidades",
+    "resource_e_title": "NetBCN a Cisco",
+    "resource_e_description": "Estado del arte sobre el uso de Segment Routing y un sistema de almacenaje distribuido y continuo",
+    "resource_f_title": "Python para automatizar equipos de red",
+    "resource_f_description": "Video online sobre los primeros pasos para utilizar Python para automatizar equipos de red",
+    "resource_g_title": "Panel sobre el impacte del Covid19 en diferentes actores de Internet",
+    "resource_g_description": "5 representantes de diferentes actores del sector de Internet compartieron su experiencia sobre como el cambio de hábitos ha afectado sus entornos"
 }
