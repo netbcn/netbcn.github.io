@@ -30,5 +30,11 @@
     "resource_c_title": "NetBCN at Edreams Odigeo",
     "resource_c_description": "Despite of the two talks, we enjoyed a panel (with pizzas!) leaded by David Gonzalez",
     "resource_d_title": "NetBCN at Glovo",
-    "resource_d_description": "During the same week of Cisco Live Europe we met people from several nationalities"
+    "resource_d_description": "During the same week of Cisco Live Europe we met people from several nationalities",
+    "resource_e_title": "NetBCN at Cisco",
+    "resource_e_description": "Segment Routing state of the art and a streamed distributed storage system",
+    "resource_f_title": "Python for network automation",
+    "resource_f_description": "Online video about first steps to adopt Python for network automation",
+    "resource_g_title": "Panel about Covid19 impact on Internet actors",
+    "resource_g_description": "5 Internet actors shared their experience about the impact of habit changes due Covid19"
 }
